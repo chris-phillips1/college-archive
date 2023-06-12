@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\bin\Debug\phill1cp_hw02.exe.config
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\bin\Debug\phill1cp_hw02.exe
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\bin\Debug\phill1cp_hw02.pdb
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.Form1.resources
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.Properties.Resources.resources
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.exe
+C:\Users\Chris\source\repos\phill1cp_hw02\phill1cp_hw02\obj\Debug\phill1cp_hw02.pdb

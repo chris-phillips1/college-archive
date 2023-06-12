@@ -1,0 +1,14 @@
+C:\Users\stron1om\source\repos\hw_02\hw_02\bin\Debug\hw_02.exe.config
+C:\Users\stron1om\source\repos\hw_02\hw_02\bin\Debug\hw_02.exe
+C:\Users\stron1om\source\repos\hw_02\hw_02\bin\Debug\hw_02.pdb
+C:\Users\stron1om\source\repos\hw_02\hw_02\obj\Debug\hw_02.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\hw_02\hw_02\obj\Debug\hw_02.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\hw_02\hw_02\obj\Debug\hw_02.exe
+C:\Users\stron1om\source\repos\hw_02\hw_02\obj\Debug\hw_02.pdb
+C:\Users\stron1om\source\repos\hw_01\hw_02\bin\Debug\hw_02.exe.config
+C:\Users\stron1om\source\repos\hw_01\hw_02\bin\Debug\hw_02.exe
+C:\Users\stron1om\source\repos\hw_01\hw_02\bin\Debug\hw_02.pdb
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_02.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_02.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_02.exe
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_02.pdb

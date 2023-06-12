@@ -1,0 +1,7 @@
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\bin\Debug\lab00_fall2018.exe.config
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\bin\Debug\lab00_fall2018.exe
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\bin\Debug\lab00_fall2018.pdb
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\obj\Debug\lab00_fall2018.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\obj\Debug\lab00_fall2018.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\obj\Debug\lab00_fall2018.exe
+C:\Users\stron1om\source\repos\lab00_fall2018\lab00_fall2018\obj\Debug\lab00_fall2018.pdb

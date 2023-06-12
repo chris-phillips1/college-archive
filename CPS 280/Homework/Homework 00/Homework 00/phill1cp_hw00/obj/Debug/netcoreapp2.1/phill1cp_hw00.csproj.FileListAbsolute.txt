@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\bin\Debug\netcoreapp2.1\phill1cp_hw00.deps.json
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\bin\Debug\netcoreapp2.1\phill1cp_hw00.runtimeconfig.json
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\bin\Debug\netcoreapp2.1\phill1cp_hw00.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\bin\Debug\netcoreapp2.1\phill1cp_hw00.dll
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\bin\Debug\netcoreapp2.1\phill1cp_hw00.pdb
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\obj\Debug\netcoreapp2.1\phill1cp_hw00.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\obj\Debug\netcoreapp2.1\phill1cp_hw00.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\obj\Debug\netcoreapp2.1\phill1cp_hw00.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\obj\Debug\netcoreapp2.1\phill1cp_hw00.AssemblyInfo.cs
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\obj\Debug\netcoreapp2.1\phill1cp_hw00.dll
+C:\Users\Chris\source\repos\phill1cp_hw00\phill1cp_hw00\obj\Debug\netcoreapp2.1\phill1cp_hw00.pdb

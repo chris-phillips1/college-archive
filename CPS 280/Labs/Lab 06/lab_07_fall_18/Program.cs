@@ -1,0 +1,88 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab_07_fall_18
+{
+    class Program
+    {
+        /// <summary>
+        /// Implement all your code in the MyClass class, don't mess with this method. 
+        /// </summary>
+        /// <param name="args"></param>
+        static void Main(string[] args)
+        {
+            // Creating the List to get things started
+            List<int> arr = new List<int>();
+            Random r = new Random();
+            for (int i = 0; i < 10; i++)
+                arr.Add(r.Next(1000));
+
+            MyClass mc = new MyClass(ref arr); // default initialization 
+            mc.Print(); // display elements space seperated on one line
+            mc.Sort();  // sort ascending
+            mc.Print(); // display elements space seperated on one line
+            Console.WriteLine(mc.Max()); // Greatest element
+            Console.WriteLine(mc.Min()); // Least element
+
+            // proving that you didn't mess with the original
+            foreach (int i in arr)
+                Console.Write("{0} ", i);
+            Console.WriteLine();
+            mc.Print();
+
+            Console.Read(); // keep the stupid console from closing too quickly
+        }
+    }
+
+    class MyClass
+    {
+        List<int> myarr = new List<int>();
+
+        public MyClass(ref List<int> arr)
+        {
+            foreach (int i in arr)
+                myarr.Add(i);
+        }
+
+        public void Sort ()
+        {
+            myarr.Sort();
+        }
+
+        public int Max ()
+        {
+            int max = myarr[0];
+            foreach(int i in myarr)
+            {
+                if (i > max)
+                    max = i;
+            }
+
+            return max;
+        }
+
+        public int Min()
+        {
+            int max = myarr[0];
+            foreach (int i in myarr)
+            {
+                if (i < max)
+                    max = i;
+            }
+
+            return max;
+        }
+
+        public void Print ()
+        {
+            foreach(int i in myarr)
+                Console.Write("{0} ", i);
+            Console.WriteLine();
+        }
+
+
+    }
+}

@@ -1,0 +1,10 @@
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\bin\Debug\lab01_fall_2018_sln.exe.config
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\bin\Debug\lab01_fall_2018_sln.exe
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\bin\Debug\lab01_fall_2018_sln.pdb
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.Form1.resources
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.Properties.Resources.resources
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.csproj.GenerateResource.cache
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.exe
+C:\Users\stron1om\source\repos\lab01_fall_2018_sln\lab01_fall_2018_sln\obj\Debug\lab01_fall_2018_sln.pdb

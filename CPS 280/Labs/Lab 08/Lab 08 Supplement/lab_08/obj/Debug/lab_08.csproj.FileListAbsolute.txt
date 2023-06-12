@@ -1,0 +1,7 @@
+C:\Users\stron1om\source\repos\lab_08\lab_08\obj\Debug\lab_08.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\lab_08\lab_08\obj\Debug\lab_08.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\lab_08\lab_08\bin\Debug\lab_08.exe.config
+C:\Users\stron1om\source\repos\lab_08\lab_08\bin\Debug\lab_08.exe
+C:\Users\stron1om\source\repos\lab_08\lab_08\bin\Debug\lab_08.pdb
+C:\Users\stron1om\source\repos\lab_08\lab_08\obj\Debug\lab_08.exe
+C:\Users\stron1om\source\repos\lab_08\lab_08\obj\Debug\lab_08.pdb

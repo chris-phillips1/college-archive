@@ -1,0 +1,10 @@
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.Form1.resources
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.Properties.Resources.resources
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.csproj.GenerateResource.cache
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\lab_02\lab_02\bin\Debug\lab_02.exe.config
+C:\Users\stron1om\source\repos\lab_02\lab_02\bin\Debug\lab_02.exe
+C:\Users\stron1om\source\repos\lab_02\lab_02\bin\Debug\lab_02.pdb
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.exe
+C:\Users\stron1om\source\repos\lab_02\lab_02\obj\Debug\lab_02.pdb

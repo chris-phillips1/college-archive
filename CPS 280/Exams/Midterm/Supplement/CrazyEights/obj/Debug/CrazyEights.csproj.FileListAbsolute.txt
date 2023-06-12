@@ -1,0 +1,7 @@
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\obj\Debug\CrazyEights.csprojResolveAssemblyReference.cache
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\obj\Debug\CrazyEights.csproj.CoreCompileInputs.cache
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\bin\Debug\CrazyEights.exe.config
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\bin\Debug\CrazyEights.exe
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\bin\Debug\CrazyEights.pdb
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\obj\Debug\CrazyEights.exe
+c:\users\stron1om\source\repos\CrazyEights\CrazyEights\obj\Debug\CrazyEights.pdb

@@ -1,0 +1,10 @@
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\bin\Debug\Homework_02_fall_18.exe.config
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\bin\Debug\Homework_02_fall_18.exe
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\bin\Debug\Homework_02_fall_18.pdb
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.Form1.resources
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.Properties.Resources.resources
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.csproj.GenerateResource.cache
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.exe
+C:\Users\stron1om\source\repos\Homework_02_fall_18\Homework_02_fall_18\obj\Debug\Homework_02_fall_18.pdb

@@ -1,0 +1,7 @@
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\bin\Debug\Lab07_Group5.exe.config
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\bin\Debug\Lab07_Group5.exe
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\bin\Debug\Lab07_Group5.pdb
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\obj\Debug\Lab07_Group5.csprojResolveAssemblyReference.cache
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\obj\Debug\Lab07_Group5.csproj.CoreCompileInputs.cache
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\obj\Debug\Lab07_Group5.exe
+C:\Users\bell3k\source\repos\Lab07_Group5\Lab07_Group5\obj\Debug\Lab07_Group5.pdb

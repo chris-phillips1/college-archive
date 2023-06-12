@@ -1,0 +1,10 @@
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\bin\Debug\lab_03_sln.exe.config
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\bin\Debug\lab_03_sln.exe
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\bin\Debug\lab_03_sln.pdb
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.Form1.resources
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.Properties.Resources.resources
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.csproj.GenerateResource.cache
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.exe
+C:\Users\stron1om\source\repos\lab_03_sln\lab_03_sln\obj\Debug\lab_03_sln.pdb

@@ -1,0 +1,13 @@
+C:\Users\stron1om\source\repos\hw_01\hw_02\bin\Debug\hw_00_insertion_sort.exe.config
+C:\Users\stron1om\source\repos\hw_01\hw_02\bin\Debug\hw_00_insertion_sort.exe
+C:\Users\stron1om\source\repos\hw_01\hw_02\bin\Debug\hw_00_insertion_sort.pdb
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_00.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_00_insertion_sort.exe
+C:\Users\stron1om\source\repos\hw_01\hw_02\obj\Debug\hw_00_insertion_sort.pdb
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\bin\Debug\hw_00_insertion_sort.exe.config
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\bin\Debug\hw_00_insertion_sort.exe
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\bin\Debug\hw_00_insertion_sort.pdb
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\obj\Debug\hw_00.csprojResolveAssemblyReference.cache
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\obj\Debug\hw_00.csproj.CoreCompileInputs.cache
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\obj\Debug\hw_00_insertion_sort.exe
+C:\Users\stron1om\source\repos\hw_01\hw_00_sln\obj\Debug\hw_00_insertion_sort.pdb

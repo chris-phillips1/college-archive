@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Location Notes &amp; Reminders</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- HINT STRINGS -->
+    <string name="hint_location">Location:</string>
+
+    <string name="hint_reminderTitle">Title</string>
+    <string name="hint_reminderDscp">Description</string>
+    <string name="hint_noteTitle">Note Title</string>
+    <string name="hint_noteText">Note Text</string>
+
+    <!-- BUTTON STRINGS -->
+    <string name="button_addLocation">Add Location</string>
+    <string name="button_updateLocation">Update Location</string>
+
+    <string name="button_addReminder">Add Reminder</string>
+    <string name="button_saveReminder">Update Reminder</string>
+    <string name="button_addNote">Add Note</string>
+    <string name="button_saveNote">Update Note</string>
+
+    <!-- TOAST STRINGS -->
+    <string name="toast_emptyTitle">Please Enter a Title</string>
+    <string name="toast_emptyDscp">Please Enter a Description</string>
+
+    <string name="toast_reminderAdded">Reminder Added</string>
+    <string name="toast_reminderUpdated">Reminder Updated</string>
+    <string name="toast_reminderDeleted">Reminder Deleted</string>
+    <string name="toast_noteAdded">Note Added</string>
+    <string name="toast_noteUpdated">Note Updated</string>
+    <string name="toast_noteDeleted">Note Deleted</string>
+
+    <!-- MENU STRINGS -->
+    <string name="menu_addReminder">Add Reminder</string>
+    <string name="menu_deleteReminder">Delete</string>
+    <string name="menu_cancelReminder">Cancel</string>
+
+    <string name="menu_addNote">Add Note</string>
+    <string name="menu_deleteNote">Delete</string>
+    <string name="menu_cancelNote">Cancel</string>
+
+    <!-- NAV DRAWER STRINGS -->
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_closed">Close Navigation Drawer</string>
+    <string name="nav_Name">Menu</string>
+    <string name="drawer_Home">Home</string>
+    <string name="drawer_Reminders">Reminders</string>
+    <string name="drawer_Notes">Notes</string>
+
+    <!-- LOCATION DISPLAY STRINGS -->
+    <string name="note_location">Location: %1$f, %2$f</string>
+
+</resources>

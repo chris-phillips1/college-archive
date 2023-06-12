@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/drawer_Home" />
+
+        <item
+            android:id="@+id/notes"
+            android:icon="@drawable/baseline_notes_black_18dp"
+            android:title="@string/drawer_Notes"
+            />
+
+        <item
+            android:id="@+id/reminders"
+            android:icon="@drawable/baseline_notifications_active_black_18dp"
+            android:title="@string/drawer_Reminders" />
+    </group>
+
+
+</menu>

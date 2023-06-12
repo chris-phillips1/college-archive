@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#4134AA</color>
+    <color name="colorAccent">#4134AA</color>
+    <color name="colorHint">#505050</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="map_circleColor">#4134AA</color>
+    <color name="cardTest">#4134AA</color>
+    <color name="clear">#00FFFFFF</color>
+    <color name="buttons">#4134AA</color>
+    <!--7D6CFD-->
+    <!-- TEXT COLORS -->
+    <color name="text">#FFFFFF</color>
+    <color name="main_text">#000000</color>
+    <color name="hint_text">#3D3D3D</color>
+    <color name="header_text">#ffffff</color>
+    <color name="underline">#2C2C2C</color>
+
+    <color name="addButton">#D60000</color>
+
+</resources>

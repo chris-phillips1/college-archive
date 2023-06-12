@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginVertical="8dp"
+    android:elevation="24dp"
+    android:background="@color/cardTest"
+    android:layout_marginHorizontal="16dp"
+    app:cardCornerRadius="15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardTest"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/reminderTitleCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:textSize="30sp"
+            android:textColor="@color/text"/>
+
+        <TextView
+            android:id="@+id/reminderDscpCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reminderTitleCard"
+            android:textColor="@color/text"/>
+
+        <TextView
+            android:id="@+id/reminderLocationCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reminderDscpCard"
+            android:textColor="@color/text"/>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

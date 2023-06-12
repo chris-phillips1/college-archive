@@ -1,0 +1,39 @@
+//Test 1
+To solve quadratic equation aX^2 + bX + c = 0
+Please enter the three coefficients a, b, and c: -2 4 6
+
+-2.0X^2 + 4.0X + 6.0 = 0
+
+The two solutions of the equation are: -1.0000, 3.0000
+
+//Test 2
+To solve quadratic equation aX^2 + bX + c = 0
+Please enter the three coefficients a, b, and c: 5 4 2
+
+5.0X^2 + 4.0X + 2.0 = 0
+
+There are no real solutions.
+
+//Test 3
+To solve quadratic equation aX^2 + bX + c = 0
+Please enter the three coefficients a, b, and c: 2.3 -5 -6
+
+2.3X^2 - 5.0X - 6.0 = 0
+
+The two solutions of the equation are: 3.0338, -0.8599
+
+//Test 4
+To solve quadratic equation aX^2 + bX + c = 0
+Please enter the three coefficients a, b, and c: 0 -2.3 7
+
+-2.3X + 7.0 = 0
+
+The one solution of the equation is: 3.0435
+
+//Test 5
+To solve quadratic equation aX^2 + bX + c = 0
+Please enter the three coefficients a, b, and c: 4 12 9
+
+4.0X^2 + 12.0X + 9.0 = 0
+
+The one solution of the equation is: -1.5000

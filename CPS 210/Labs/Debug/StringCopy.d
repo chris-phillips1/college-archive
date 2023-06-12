@@ -1,0 +1,1 @@
+StringCopy.o: ../StringCopy.c

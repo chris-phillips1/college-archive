@@ -1,0 +1,9 @@
+Enter a: 7
+Enter b: 3
+Enter c: 2
+Enter d: 100
+Your input of 7, 3, 2, and 100 yields:
+
+The number 58.9445 with four decimal places
+                  OR
+The number 59 rounded up from 58.9445

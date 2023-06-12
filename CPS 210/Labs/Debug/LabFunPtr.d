@@ -1,0 +1,1 @@
+LabFunPtr.o: ../LabFunPtr.c

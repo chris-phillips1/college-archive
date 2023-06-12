@@ -1,0 +1,1 @@
+SelectionSort.o: ../SelectionSort.c

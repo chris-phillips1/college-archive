@@ -1,0 +1,7 @@
+How many numbers? 8
+Enter 8 numbers (separated by space): 123 123 123 -35 0.007 -987.123 -0.0002 711
+
+Min: -987.12
+Max: 711.00
+Mean: 7.24
+Standard Deviation: 436.77

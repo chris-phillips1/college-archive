@@ -1,0 +1,1 @@
+DigitFrequencyArray.o: ../DigitFrequencyArray.c

@@ -1,0 +1,5 @@
+1 Bob 12
+2 Sue 10
+3 Sam 68
+4 Bill 17
+5 Sue 10

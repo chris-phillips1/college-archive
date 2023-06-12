@@ -1,0 +1,1 @@
+LabArrayPtr.o: ../LabArrayPtr.c

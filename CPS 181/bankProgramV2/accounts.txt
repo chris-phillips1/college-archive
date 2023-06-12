@@ -1,0 +1,8 @@
+Chris 200.0 christopher password1 57000
+Jen 200.0 jennifer password2 57001
+Justin 200.0 justin password3 57002
+Hayley 500.0 hayley password4 12000
+Breana 500.0 breana password5 12001
+Kenzie 200.0 kenzie password6 57003
+Matt 500.0 matt password7 12002
+Trever 256.0 trever password8 57004

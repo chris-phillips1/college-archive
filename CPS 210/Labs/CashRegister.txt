@@ -1,0 +1,33 @@
+What's your name? Chris
+Welcome to Denny's Market, Chris! We have the following items for sale:
+
+T-shirt    $18.95  15% off
+Chips      $ 1.79  15% off
+Coke       $ 2.99
+
+How many T-shirts do you want? 3
+How many bags of potato chips? 4
+What about 12-pack Coke? 2
+Your total is $65.69.
+Please enter your payment: 70
+
+
+Chris, here is your receipt:
+
+	item	   unit price	  how many	  cost
+--------------------------------------------
+  T-shirt	    18.95	      3         56.85
+  Chips	      1.79	      4          7.16
+  Coke	      2.99	      2          5.98
+  Deposit                            2.40
+
+  Subtotal                          72.39
+  Discount                          -9.60
+  Tax                                2.90
+                                ------------
+  Total                             65.69
+
+  Payment                           70.00
+  Your change                        4.31
+
+Thank you. Come Again!
